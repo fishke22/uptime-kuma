@@ -148,7 +148,7 @@
         "@fortawesome/free-regular-svg-icons": "~5.15.4",
         "@fortawesome/free-solid-svg-icons": "~5.15.4",
         "@fortawesome/vue-fontawesome": "~3.0.0-5",
-        "@playwright/test": "~1.39.0",
+        "@playwright/test": "~1.56.1",
         "@popperjs/core": "~2.10.2",
         "@testcontainers/hivemq": "^10.13.1",
         "@testcontainers/rabbitmq": "^10.13.2",
